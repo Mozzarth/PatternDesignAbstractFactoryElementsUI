@@ -1,0 +1,11 @@
+{
+  "name": "abstractfactory",
+  "version": "1.0.0",
+  "description": "Demostracion del abstract factory a compañeros de la Univercidad",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist"
+  },
+  "author": "Mozzarth",
+  "license": "ISC"
+}
